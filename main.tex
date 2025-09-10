@@ -1,0 +1,39 @@
+\documentclass{article}
+\input{configuracion}
+
+\title{Notas de la materia Fundamentos de Inteligencia Artificial} 
+\author{Monzon Garcia Jesus Ruben Grupo 3-3}
+\date{ \today }
+
+
+
+\begin{document}
+\sloppy
+\maketitle
+\begin{abstract}
+    \noindent \LaTeX  Una vez terminadas las notas se realizara el resumen.
+\end{abstract}
+
+\section*{Panorama General(pipeline de extremo a extremo)}
+
+\begin{enumerate}
+    \item El \textbf{usuario} escribe un prompt (por ejemplo ¿Que es la IA?) y se envia via cliente (Navegador/API)
+    \item \textbf{Transporte:} el prompt viaja por HTTPS/TLS al servidor modelo (request JSON).
+    \item \textbf{Preprocesado/Moderacion:} el servidor puede ejecutar filtros de seguridad/moderacion y separacion de roles (system/user/assistant).
+    \item \textbf{Tokenizacion:} el texto se convierte en una secuencia de tokens (subpalabras/bytes) y luego en enteros (ids).
+    \item \textbf{Inferencia del modelo:}
+        \begin{itemize}
+            \item Los ids entran en la red neuronal (embedding lookup = añadir codificacion posicional)
+            \item Se ejecutan N bloques de transformer (multi-head self-attention + MLPS)
+            \item La ultima capa produce logits sobre el vocabulario
+        \end{itemize}
+    \item 
+        
+\end{enumerate}
+
+\include{contenido}
+
+\printbibliography
+
+
+\end{document}
