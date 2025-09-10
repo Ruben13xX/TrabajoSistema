@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1757520277.19293 "main.bcf" "main.bbl" "main" 1757520302.5142 2
-  "main.bcf" 0 -1 0 "pdflatex"
+["biber main"] 1757520277.19293 "main.bcf" "main.bbl" "main" 1757522767.30361 2
+  "main.bcf" 1757522767 108610 85ddbd30219d9556d348be2c4cdae378 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1757520274.53893 "c:/Users/Alumnos/Downloads/Fundamentos_de_Inteligencia_Artificial__Apuntes_/main.tex" "main.pdf" "main" 1757520276.84472 2
+["pdflatex"] 1757522766.10818 "c:/Users/Alumnos/Downloads/Fundamentos_de_Inteligencia_Artificial__Apuntes_/main.tex" "main.pdf" "main" 1757522767.30404 2
   "C:/Users/Alumnos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757374647 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Alumnos/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1757374197 13258310 9be36bdc8426d6cb76bdcd893a857ec3 ""
   "C:/Users/Alumnos/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -238,13 +238,13 @@
   "C:/Users/Alumnos/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1749468414 10374 2ffd4f27c7f90b8a300608069537743c ""
   "C:/Users/Alumnos/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Alumnos/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/Alumnos/Downloads/Fundamentos_de_Inteligencia_Artificial__Apuntes_/main.tex" 1757373202 1339 cc010d83d565cc2b44a50c816d4366e0 ""
+  "c:/Users/Alumnos/Downloads/Fundamentos_de_Inteligencia_Artificial__Apuntes_/main.tex" 1757522754 1354 f555ccdb86db7317a9216aa5286af440 ""
   "configuracion.tex" 1757373202 549 0f4f8da091e0c535c3dcbc4be83064c9 ""
-  "contenido.aux" 1757520276 3922 7a5f2cd91e2c554fb04282df2f556df2 "pdflatex"
-  "contenido.tex" 1757373202 1359 024fd908999f78f7614f7d9932abc181 ""
-  "main.aux" 0 -1 0 "pdflatex"
+  "contenido.aux" 1757522767 3922 7a5f2cd91e2c554fb04282df2f556df2 "pdflatex"
+  "contenido.tex" 1757522765 1359 024fd908999f78f7614f7d9932abc181 ""
+  "main.aux" 1757522767 441 f9b6ab1f2480af4e34977c0856eb6c1b "pdflatex"
   "main.bbl" 1757520302 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.tex" 1757373202 1339 cc010d83d565cc2b44a50c816d4366e0 ""
+  "main.tex" 1757522754 1354 f555ccdb86db7317a9216aa5286af440 ""
   (generated)
   "contenido.aux"
   "main.aux"
@@ -253,3 +253,4 @@
   "main.pdf"
   "main.run.xml"
   (rewritten before read)
+  "contenido.aux"
